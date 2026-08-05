@@ -4,5 +4,6 @@ class Hello{
         Scanner sc=new Scanner(System.in);
         System.out.println("Hello world");
         System.out.println("Welcome jenkins");
+        System.out.println("DevOps lab");
     }
 }
